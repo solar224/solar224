@@ -1,12 +1,8 @@
-<h3 align="left">💬 &nbsp;About Me</h3>
-
-- 🌱 I enjoy learning new stuff from all the different categories in school.
-- 📫 How to reach me → <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=C110110157@nkust.edu.tw"><strong>C110110157@nkust.edu.tw</strong></a>
-
-<br>
-
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="left">
+  <a href="https://solar224.github.io/CYC/#/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
   <a href="https://www.linkedin.com/in/%E5%AE%87%E5%AE%B8-%E8%A9%B9-71211a347/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
