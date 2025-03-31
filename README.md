@@ -1,7 +1,7 @@
 <h3 align="left">💬 &nbsp;About Me</h3>
 
 - 🌱 I enjoy learning new stuff from all the different categories in school.
-- 📫 How to reach me → <a href="mailto:C110110157@nkust.edu.tw"><strong>C110110157@nkust.edu.tw</strong></a>
+- 📫 How to reach me → <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=C110110157@nkust.edu.tw"><strong>C110110157@nkust.edu.tw</strong></a>
 
 <br>
 
