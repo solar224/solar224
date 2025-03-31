@@ -1,17 +1,5 @@
-<h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
-<p align="left">
-  <a href="https://solar224.github.io/CYC/#/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/%E5%AE%87%E5%AE%B8-%E8%A9%B9-71211a347/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/c110110157/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30" />
-  </a>
- <a href="https://mail.google.com/mail/?view=cm&to=C110110157@nkust.edu.tw" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="30" width="30" />
-</a>
+# CYC - 個人網頁
+🔗 [https://solar224.github.io/CYC](https://solar224.github.io/CYC)
 
 </p>
 
