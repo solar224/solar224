@@ -25,7 +25,7 @@
 <h3 align="left">⚙️ &nbsp;GitHub Analytics</h3>
 <p align="left">
   <a href="https://github.com/solar224">
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solar224&theme=github_dark" alt="CTFang GitHub Statistics" />
+<!--     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solar224&theme=github_dark" alt="CTFang GitHub Statistics" /> -->
     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solar224&theme=github_dark" alt="CTFang Languages" />
   </a>
 </p>
