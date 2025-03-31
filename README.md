@@ -1,4 +1,5 @@
-🔗 [聯絡我](https://solar224.github.io/CYC)
+## 🚀 Connect with Me
+🔗 [https://solar224.github.io/CYC](https://solar224.github.io/CYC)
 
 </p>
 
