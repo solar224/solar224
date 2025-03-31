@@ -9,9 +9,10 @@
   <a href="https://leetcode.com/u/c110110157/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30" />
   </a>
-  <a href="mailto:C110110157@nkust.edu.tw">
+ <a href="https://mail.google.com/mail/?view=cm&to=C110110157@nkust.edu.tw" target="_blank" rel="noreferrer">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="30" width="30" />
-  </a>
+</a>
+
 </p>
 
 <h3 align="left">🛠 &nbsp;Tech Stack</h3>
