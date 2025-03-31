@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/%E5%AE%87%E5%AE%B8-%E8%A9%B9-71211a347/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/solar224" target="_blank">
+  <a href="https://leetcode.com/u/c110110157/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30" />
   </a>
   <a href="mailto:C110110157@nkust.edu.tw">
