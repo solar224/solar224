@@ -1,4 +1,4 @@
-# Welcome to my digital grimoire <img align="right" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50" height="50" />
+# Hi <img align="right" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50" height="50" />
 
 I am a student from Taiwan who loves communication networks. I am currently a student at NYCU, majoring in Data Science. I am passionate about weaving the logic of code with the art of technology.
 
@@ -8,7 +8,7 @@ I am the technomancer of this domain. My spells 📜 are cast in Python and my i
   <summary><i> Click <b> Here </b> to decode the runes and learn more about my craft! </i>
 <p align="center">  
   <img align="middle" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" height="120"  alt=""/>
-  <img align="middle" src="https://media.giphy.com/media/yo3op1vAnYlkvb0a2U/giphy.gif" width="150" height="120"  alt=""/> 
+  <img align="middle" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="120"  alt=""/> 
 </p> </summary>  
 
 
