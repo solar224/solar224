@@ -13,11 +13,6 @@ I am the technomancer of this domain. My spells 📜 are cast in Python and my i
 
 
 
-
-<p align="center">
-  <img align="right" src="https://media.giphy.com/media/l49K2k1u5y6de47Ze/giphy.gif" width="300" height="225"  alt=""/>
-</p>
-
 - 🏫 I'm currently studying at __NYCU__, majoring in Data Science
 - 🧠 I’m currently learning __5G Networks and Machine Learning__
 - ✨ Fun fact: I believe technology is the closest thing we have to magic
