@@ -11,7 +11,7 @@ I am a student from Taiwan who loves communication networks. I am currently a st
 - ✨ Fun fact: I believe technology is the closest thing we have to magic
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solar224&show_icons=true&hide_border=true&theme=dracula" alt="solar224's github stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=solar224&show_icons=true&hide_border=true&theme=dracula" alt="solar224's github stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solar224&layout=compact&hide_border=true&theme=dracula" alt="solar224's top languages" /></p>
 
 We have now explored the depths of this digital grimoire.
