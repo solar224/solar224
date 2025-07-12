@@ -1,7 +1,6 @@
-# Hi, i'm solor  <img align="right" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50" height="50" />
+# Hi, i'm solor <img align="right" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50" height="50" />
 
 I am a student from Taiwan who loves communication networks. I am currently a student at NYCU, majoring in Data Science.
----
 
 <details>
   <summary> ⭐ <i> Click <b> Here </b> to decode the runes and learn more about my craft! </i>
@@ -17,7 +16,7 @@ I am a student from Taiwan who loves communication networks. I am currently a st
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=solar224&show_icons=true&hide_border=true&theme=dracula" alt="solar224's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solar224&layout=compact&hide_border=true&theme=dracula" alt="solar224's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solar224&hide_border=true&theme=dracula" alt="solar224's top languages" />
 </p>
 
 We have now explored the depths of this digital grimoire.
