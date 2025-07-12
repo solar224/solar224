@@ -24,7 +24,7 @@ We have now explored the depths of this digital grimoire.
 </details>
 
 <p align="center">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 </p>
 
 ### `Better late than never`
