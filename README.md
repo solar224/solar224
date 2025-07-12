@@ -1,12 +1,9 @@
-# Hi, i'm solor <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50" />
+# <img align="middle" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="120"  alt=""/> Hi, i'm solor <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50" />
 
 I am a student from Taiwan who loves communication networks. I am currently a student at NYCU, majoring in Data Science.
 
 <details>
-  <summary> ⭐ <i> Click <b> Here </b> to decode the runes and learn more about my craft! </i>
-<p align="center">  
-  <img align="middle" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="120"  alt=""/> 
-</p> </summary>  
+  <summary> ⭐ <i> Click <b> Here </b> to decode the runes and learn more about my craft! </i> </summary>  
 
 
 
