@@ -3,7 +3,7 @@
 I am a student from Taiwan who loves communication networks. I am currently a student at NYCU, majoring in Data Science.
 
 <details>
-  <summary><i> Click <b> Here </b> to decode the runes and learn more about my craft! </i>
+  <summary> ⭐ <i> Click <b> Here </b> to decode the runes and learn more about my craft! </i>
 <p align="center">  
   <img align="middle" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" height="120"  alt=""/>
   <img align="middle" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="120"  alt=""/> 
@@ -24,7 +24,7 @@ We have now explored the depths of this digital grimoire.
 </details>
 
 <p align="center">
-<img align="middle" src="https://media.giphy.com/media/MEo2wO0sO2f5ylbS3w/giphy.gif" width="250" height="250"  alt=""/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 </p>
 
 ### `Better late than never`
