@@ -1,4 +1,4 @@
-# <img align="middle" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" height="50" alt=""/> Hi, i'm solor <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50" />
+# <img align="middle" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" height="40" alt=""/> Hi, i'm solor <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50" />
 
 I am a student from Taiwan who loves communication networks. I am currently a student at NYCU, majoring in Data Science.
 
