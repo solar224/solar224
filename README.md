@@ -1,4 +1,4 @@
-# Welcome to my digital grimoire <img align="right" src="https://media.giphy.com/media/5pE0Y282t24o0/giphy.gif" width="50" height="50" />
+# Welcome to my digital grimoire <img align="right" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50" height="50" />
 
 I am a student from Taiwan who loves communication networks. I am currently a student at NYCU, majoring in Data Science. I am passionate about weaving the logic of code with the art of technology.
 
