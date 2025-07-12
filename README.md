@@ -1,8 +1,6 @@
-# Hi <img align="right" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50" height="50" />
+# Hi, i'm solor  <img align="right" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50" height="50" />
 
-I am a student from Taiwan who loves communication networks. I am currently a student at NYCU, majoring in Data Science. I am passionate about weaving the logic of code with the art of technology.
-
-I am the technomancer of this domain. My spells 📜 are cast in Python and my incantations echo through the 5G network. Be warned, the knowledge here is potent. Grab your reality stabilizer, because we're about to bend the fabric of code itself.
+I am a student from Taiwan who loves communication networks. I am currently a student at NYCU, majoring in Data Science.
 
 <details>
   <summary><i> Click <b> Here </b> to decode the runes and learn more about my craft! </i>
@@ -13,7 +11,6 @@ I am the technomancer of this domain. My spells 📜 are cast in Python and my i
 
 
 
-- 🏫 I'm currently studying at __NYCU__, majoring in Data Science
 - 🧠 I’m currently learning __5G Networks and Machine Learning__
 - ✨ Fun fact: I believe technology is the closest thing we have to magic
 
