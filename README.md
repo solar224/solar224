@@ -3,7 +3,7 @@
 I am a student from Taiwan who loves communication networks. I am currently a student at NYCU, majoring in Data Science.
 
 <details>
-  <summary> ⭐ <i> Click <b> Here </b> to decode the runes and learn more about my craft! </i> </summary>  
+  <summary> ⭐ <i> Click <b>here</b>to learn more！ </i> </summary>  
 
 
 
