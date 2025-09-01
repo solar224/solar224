@@ -1,6 +1,6 @@
 # <img align="left" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" height="50" alt=""/> Hi~👋 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50" />
 
-I am a student from Taiwan who loves communication networks. I am currently a student at NYCU, majoring in Data Science.
+I am a student from Taiwan who loves communication networks, majoring in Data Science.
 
 <details>
   <summary> ⭐ <i> Click <b>here</b> to learn more！ </i> </summary>  
