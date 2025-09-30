@@ -10,7 +10,6 @@ I am a student from Taiwan who loves communication networks, majoring in Data Sc
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solar224&layout=compact&hide_border=true&theme=dracula" alt="solar224's top languages" /></p>
 
-We have now explored the depths of this digital grimoire.
 
 </details>
 
