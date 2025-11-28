@@ -1,20 +1,54 @@
-# <img align="left" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" height="50" alt=""/> Hi~👋 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50" />
+<div align="center">
 
-I am a student from Taiwan who loves communication networks, majoring in Data Science.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+solar224;Network+%26+Data+Science;Based+in+Taiwan" alt="Typing SVG" />
+</a>
 
-<details>
-  <summary> ⭐ <i> Click <b>here</b> to learn more！ </i> </summary>  
-
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solar224&layout=compact&hide_border=true&theme=dracula" alt="solar224's top languages" /></p>
-
-
-</details>
-
-<p align="center">
-<img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<p>
+  <img src="https://img.shields.io/badge/STUDENT-TAIWAN-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAJOR-DATA%20SCIENCE-violet?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-COMMUNICATION%20NETWORKS-success?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-### `Better late than never`
+<br/>
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,cpp,linux,docker,git,vscode,pytorch,mysql&theme=dark" />
+  </a>
+</p>
+
+<br/>
+
+### GitHub Analytics
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solar224&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="solar224's stats" height="150" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solar224&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="solar224's Top Langs" height="150" />
+  </a>
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="DevQuote" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=solar224&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+### `Better late than never.`
+
+</div>
