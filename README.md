@@ -41,32 +41,26 @@
   <table>
     <tr>
       <td>
-        <!-- Streak Stats -->
         <a href="https://github.com/solar224">
           <img
             src="https://streak-stats.demolab.com?user=solar224&theme=github-dark&hide_border=true"
             alt="solar224's GitHub streak"
-            height="165"
-            width="420"
           />
         </a>
       </td>
     </tr>
   </table>
-
-    <img
+  <img
       src="https://metrics.lecoq.io/solar224?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FTaipei"
       alt="solar224's GitHub metrics"
-      height="170"
-      width="420"
-    />
+  />
+    
+<br />
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img
-            src="https://github-profile-trophy.vercel.app/?username=solar224&theme=onedark&no-frame=true&no-bg=true&margin-w=15"
-            alt="solar224's GitHub trophies"
-            height="170"
-            width="420"
-          />
+     <img
+        src="https://github-profile-trophy.vercel.app/?username=solar224&theme=onedark&no-frame=true&no-bg=true&margin-w=15"
+        alt="solar224's GitHub trophies"/>
   </a>
 </div>
 
