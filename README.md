@@ -48,6 +48,13 @@
           />
         </a>
       </td>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solar224&theme=nord_dark"
+          alt="Top languages used in solar224's repositories"
+          width="840"
+        />
+      </td>
     </tr>
   </table>
   <!-- <img
