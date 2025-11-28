@@ -66,6 +66,7 @@
   </table>
 
 </div>
+
 ### GitHub Analytics
 
 <div align="center">
@@ -73,32 +74,27 @@
   <table>
     <tr>
       <td>
-        <!-- GitHub Overall Stats (stats-cards) -->
-        <a href="https://github.com/solar224">
-          <img
-            src="https://stats.justsong.cn/api/github?username=solar224&theme=dark&lang=zh-CN"
-            alt="solar224's GitHub stats"
-            width="420"
-            height="170"
-          />
-        </a>
+        <!-- GitHub Metrics -->
+        <img
+          src="https://metrics.lecoq.io/solar224?template=classic&config.timezone=Asia%2FTaipei"
+          alt="solar224's GitHub metrics"
+          height="165"
+          width="420"
+        />
       </td>
       <td>
-        <!-- GitHub Streak (streak-stats) -->
-        <a href="https://github.com/solar224">
-          <img
-            src="https://streak-stats.demolab.com?user=solar224&theme=github-dark&hide_border=true"
-            alt="solar224's GitHub streak"
-            width="420"
-            height="170"
-          />
-        </a>
+        <!-- GitHub Streak -->
+        <img
+          src="https://github-readme-streak-stats-eight.vercel.app?user=solar224&theme=github-dark&hide_border=true"
+          alt="solar224's GitHub streak"
+          height="165"
+          width="420"
+        />
       </td>
     </tr>
   </table>
 
 </div>
-
 
 
 
