@@ -12,7 +12,7 @@
 
 ### Tech Stack & Tools
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,go,ubuntu,linux,docker,git,pytorch&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,react,python,go,java,javascript,linux,docker,git,pytorch&theme=dark" />
 </p>
 
 ### GitHub Analytics
