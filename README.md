@@ -45,7 +45,7 @@
           <img
             src="https://streak-stats.demolab.com?user=solar224&theme=github-dark&hide_border=true"
             alt="solar224's GitHub streak"
-            height="100"
+            height="200"
           />
         </a>
       </td>
@@ -53,7 +53,7 @@
         <img
           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solar224&theme=nord_dark"
           alt="Top languages used in solar224's repositories"
-          height="100"
+          height="200"
         />
       </td>
     </tr>
