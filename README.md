@@ -40,11 +40,11 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="DevQuote" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=solar224&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+</p> -->
 </div>
