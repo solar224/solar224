@@ -24,20 +24,21 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solar224&theme=nord_dark"
     alt="Top languages used in solar224's repositories"
-    height="200"
+    height="190"
   />
   <a href="https://github.com/solar224">
     <img
       src="https://streak-stats.demolab.com?user=solar224&theme=github-dark&hide_border=true"
       alt="solar224's GitHub streak"
-      height="200"
+      height="190"
       />
   </a>
 </p>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img
     src="https://github-profile-trophy.vercel.app/?username=solar224&theme=onedark&no-frame=true&no-bg=true&margin-w=15"
-    alt="solar224's GitHub trophies"/>
+    alt="solar224's GitHub trophies"
+    width="825"/>
 </a>
 
 <picture>
