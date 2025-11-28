@@ -41,20 +41,24 @@
   <table>
     <tr>
       <td>
+        <!-- GitHub Stats -->
         <a href="https://github.com/solar224">
           <img
-            src="https://github-readme-stats.vercel.app/api?username=solar224&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+            src="https://github-readme-stats.vercel.app/api?username=solar224&show_icons=true&theme=transparent&hide_border=true"
+            alt="solar224's GitHub stats"
             height="165"
-            alt="GitHub Stats"
+            width="420"
           />
         </a>
       </td>
       <td>
+        <!-- Streak Stats -->
         <a href="https://github.com/solar224">
           <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=solar224&theme=github-dark&hide_border=true"
+            src="https://streak-stats.demolab.com?user=solar224&theme=github-dark&hide_border=true"
+            alt="solar224's GitHub streak"
             height="165"
-            alt="GitHub Streak"
+            width="420"
           />
         </a>
       </td>
@@ -62,6 +66,7 @@
   </table>
 
 </div>
+
 
 
 
