@@ -50,11 +50,10 @@
       </td>
     </tr>
   </table>
-  <img
+  <!-- <img
       src="https://metrics.lecoq.io/solar224?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FTaipei"
       alt="solar224's GitHub metrics"
-  />
-    
+  /> -->
 <br />
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
