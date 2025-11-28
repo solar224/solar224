@@ -48,7 +48,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=solar224&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
-
-### `Better late than never.`
-
 </div>
