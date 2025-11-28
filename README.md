@@ -19,8 +19,6 @@
   </a>
 </p>
 
-<br/>
-
 ### GitHub Analytics
 <p>
   <img
