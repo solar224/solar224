@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+YC-Chan;Network+%26+Data+Science" alt="Typing SVG" />
-</a>
 
 <p>
   <img src="https://img.shields.io/badge/STUDENT-TAIWAN-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -14,9 +12,7 @@
 
 ### Tech Stack & Tools
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,python,go,ubuntu,linux,docker,git,pytorch&theme=dark" />
-  </a>
 </p>
 
 ### GitHub Analytics
@@ -26,20 +22,16 @@
     alt="Top languages used in solar224's repositories"
     height="190"
   />
-  <a href="https://github.com/solar224">
     <img
       src="https://streak-stats.demolab.com?user=solar224&theme=github-dark&hide_border=true"
       alt="solar224's GitHub streak"
       height="190"
       />
-  </a>
 </p>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img
     src="https://github-profile-trophy.vercel.app/?username=solar224&theme=onedark&no-frame=true&no-bg=true&margin-w=15"
     alt="solar224's GitHub trophies"
     width="825"/>
-</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake-dark.svg">
