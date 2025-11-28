@@ -65,36 +65,24 @@
     </tr>
   </table>
 
-</div>
-### GitHub Analytics
-
-<div align="center">
-
   <table>
-    <tr>
-      <td>
-        <!-- GitHub Metrics -->
-        <img
-          src="https://metrics.lecoq.io/solar224?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FTaipei"
-          alt="solar224's GitHub metrics"
-          height="170"
-          width="420"
-        />
-      </td>
-      <td>
-        <!-- GitHub Profile Trophy -->
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://metrics.lecoq.io/solar224?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FTaipei"
+      alt="solar224's GitHub metrics"
+      height="170"
+      width="420"
+    />
+  </table>
+  <table>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
           <img
             src="https://github-profile-trophy.vercel.app/?username=solar224&theme=onedark&no-frame=true&no-bg=true&margin-w=15"
             alt="solar224's GitHub trophies"
             height="170"
             width="420"
           />
-        </a>
-      </td>
-    </tr>
-  </table>
-
+  </a>
+    </table>
 </div>
 
 
