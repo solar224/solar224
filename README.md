@@ -23,12 +23,11 @@
 
 ### GitHub Analytics
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solar224&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="solar224's stats" height="150" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solar224&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="solar224's Top Langs" height="150" />
-  </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solar224&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solar224&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <br/>
