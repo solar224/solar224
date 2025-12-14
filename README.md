@@ -10,11 +10,6 @@
 
 <br/>
 
-### Tech Stack & Tools
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,react,python,go,java,javascript,linux,docker,git,pytorch&theme=dark" />
-</p>
-
 ### GitHub Analytics
 <p>
   <img
@@ -24,13 +19,11 @@
   />
     <img
       src="https://streak-stats.demolab.com?user=solar224&theme=github-dark&hide_border=true"
-      alt="solar224's GitHub streak"
       height="190"
       />
 </p>
   <img
     src="https://github-profile-trophy.vercel.app/?username=solar224&theme=onedark&no-frame=true&no-bg=true&margin-w=15"
-    alt="solar224's GitHub trophies"
     width="825"/>
 
 <picture>
