@@ -9,19 +9,6 @@
 </p>
 
 <br/>
-
-### GitHub Analytics
-<p>
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solar224&theme=nord_dark"
-    alt="Top languages used in solar224's repositories"
-    height="190"
-  />
-    <img
-      src="https://streak-stats.demolab.com?user=solar224&theme=github-dark&hide_border=true"
-      height="190"
-      />
-</p>
   <img
     src="https://github-profile-trophy.vercel.app/?username=solar224&theme=onedark&no-frame=true&no-bg=true&margin-w=15"
     width="825"/>
