@@ -31,7 +31,7 @@
   </picture>
 
   <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=solar224&theme=tokyo-night&bg_color=0000&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=---" alt="GitHub Activity Graph" width="85%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=solar224&theme=tokyo-night&bg_color=0000&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=---" alt="GitHub Activity Graph" width="100%"/>
   </div>
 
   <br>
