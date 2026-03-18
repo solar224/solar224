@@ -20,12 +20,22 @@
   </p>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake.svg">
-</picture>
+<details>
+  <summary><b>expand</b></summary>
+  <br>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake.svg">
+  </picture>
 
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=solar224&theme=tokyo-night&bg_color=0000&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=---" alt="GitHub Activity Graph" width="85%"/>
+  </div>
+
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=solar224&color=green" alt="Views">
+</details>
 
 
