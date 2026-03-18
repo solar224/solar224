@@ -13,6 +13,13 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<table align="center">
+  <p>
+    <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=solar224&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" align="center" />
+    <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=solar224&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+  </p>
+</table>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solar224/solar224/output/github-contribution-grid-snake.svg">
