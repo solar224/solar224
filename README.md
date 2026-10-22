@@ -22,8 +22,8 @@
   </picture>
   <p>
     <!-- <img src="https://img.shields.io/badge/STUDENT-TAIWAN-blue?style=for-the-badge&logo=gnometerminal&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/FOCUS-COMMUNICATION%20NETWORKS-violet?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/E%20Mail-cyc.cs14@nycu.edu.tw-success?style=for-the-badge&logo=cisco&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/FOCUS-COMMUNICATION%20NETWORKS-violet?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/E%20Mail-cyc.cs14@nycu.edu.tw-success?style=for-the-badge&logo=cisco&logoColor=white" /> -->
   </p>
   <br>
   <br>
